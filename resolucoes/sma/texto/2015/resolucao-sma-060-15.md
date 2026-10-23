@@ -1,0 +1,226 @@
+---
+titulo: "Resolução SMA 060/15"
+orgao: "Secretaria Estadual (SP) - SMA"
+tipo: "Resolução SMA"
+numero: "60"
+ano: 2015
+data: 2015-09-11
+ementa: "dispõe sobre promoção por merecimento"
+situacao: "Vigente"
+pagina_no_site: "https://semil.sp.gov.br/legislacao/2022/07/resolucao-sma-060-15/"
+fonte:
+  - "https://smastr16.blob.core.windows.net/legislacao/sites/262/2022/07/2015resolucao_sma_060_2015.pdf"
+pdf:
+  - ../../pdf/2015/resolucao-sma-060-15.pdf
+paginas: 3
+conversao: texto
+capturado_em: 2026-10-23
+---
+
+# Resolução SMA 060/15
+
+> dispõe sobre promoção por merecimento
+
+<!-- página 1 -->
+
+SECRETARIA DE ESTADO DO MEIO AMBIENTE
+GABINETE DA SECRETÁRIA
+
+PUBLICADA NO DOE DE 12-09-2015 SEÇÃO II PÁG 81
+
+RESOLUÇÃO SMA Nº 60, DE 11 DE SETEMBRO DE 2015
+
+A SECRETÁRIA DE ESTADO DO MEIO AMBIENTE, no uso de suas
+atribuições legais, RESOLVE:
+Artigo 1o - Promover por Merecimento, a contar de 1o de julho de 2013, nos
+termos do artigo 24, do Decreto no 42.827, de 21 de janeiro de 1998, os funcionários
+integrantes das classes abaixo relacionadas, na seguinte conformidade:
+INSTITUTO DE BOTÂNICA
+CLASSE DE AUXILIAR DE APOIO À PESQUISA CIENTÍFICA E TECNOLÓGICA
+DO NÍVEL II PARA O NÍVEL III
+Nome
+Sebastião Francisco Neto
+
+RG
+39.562.481-2
+
+DO NÍVEL III PARA O NÍVEL IV
+Nome
+
+RG
+
+Elisamara Augusto da Silva Guilherme
+Gilson da Silva
+Maria da Conceição das Flores dos Santos
+Mauricio da Silva
+
+20.892.189-8
+9.570.982-4
+17.332.834-9
+16.798.206-0
+
+CLASSE DE OFICIAL DE APOIO À PESQUISA CIENTÍFICA E TECNOLÓGICA
+DO NÍVEL II PARA O NÍVEL III
+Nome
+Maria de Lourdes das Flores Gieseke
+
+RG
+13.736.211-0
+
+DO NÍVEL III PARA O NÍVEL IV
+Nome
+
+RG
+
+Adriana Conceição de Souza
+
+21.898.897-7
+
+Aliomar Oliveira Gomes
+
+36.032.775-8
+
+Amariles Celsa de Souza
+
+7.694.786-5
+
+Ivomar Aparecido Medina
+
+12.694.620-6
+
+<!-- página 2 -->
+
+SECRETARIA DE ESTADO DO MEIO AMBIENTE
+GABINETE DA SECRETÁRIA
+
+CLASSE DE AGENTE DE APOIO À PESQUISA CIENTÍFICA E TECNOLÓGICA
+DO NÍVEL I PARA O NÍVEL II
+Nome
+
+RG
+
+Célia Regina Ferreira da Silva
+
+14.085.291-8
+
+DO NÍVEL III PARA O NÍVEL IV
+Nome
+
+RG
+
+Tania Aparecida Amorim Valeriano
+
+17.834.933-1
+
+INSTITUTO FLORESTAL
+CLASSE DE AGENTE DE APOIO À PESQUISA CIENTÍFICA E TECNOLÓGICA
+DO NÍVEL I PARA O NÍVEL II
+Nome
+
+RG
+
+SANDRA MARA GUIMARAES OLIVEIRA
+
+4.139.261
+
+DO NÍVEL II PARA O NÍVEL III
+Nome
+ANA PAULA BASTOS DE SOUZA
+
+RG
+20.050.861-1
+
+CLASSE DE AUXILIAR DE APOIO À PESQUISA CIENTÍFICA E TECNOLÓGICA
+DO NÍVEL II PARA O NÍVEL III
+Nome
+
+RG
+
+CARLOS RIBEIRO DA SILVA
+GLACY APARECIDO CLETO SOUZA
+MARCOS ANTONIO DE ANDRADE SOUZA
+PAULO CAETANO DA SILVA
+REGINA LUCIA DA SILVA COSTA
+TEREZINHA MARQUES GALVAO
+
+23.012.254-1
+16.608.092
+7.568.172-9
+24.561.956-2
+19.319.474-0
+16.608.029
+
+DO NÍVEL III PARA O NÍVEL IV
+Nome
+
+RG
+
+CARLOS HENRIQUE AMARO DOS SANTOS
+CLAUDIO CESAR ROSA DE LIMA
+CLOTILDE APARECIDA DA SILVA
+EDIMILSON SAMPAIO
+EUNICE GUILHERME DA SILVA
+JOSE ROBERTO ALVES SUAREZ
+JULIO CESAR ANDRADE
+MARCO ANTONIO RODRIGUES
+MARIA DE LOURDES BRAGA CAETANO
+OSMAR DE CARVALHO DOS SANTOS
+
+27.221.139-4
+20.198.692
+15.830.034
+22.116.961
+20.775.356
+9.442.281-3
+26.529.392-3
+22.751.163-3
+11.537.322-6
+20.699.804
+
+<!-- página 3 -->
+
+SECRETARIA DE ESTADO DO MEIO AMBIENTE
+GABINETE DA SECRETÁRIA
+
+CLASSE DE OFICIAL DE APOIO À PESQUISA CIENTÍFICA E TECNOLÓGICA
+DO NÍVEL II PARA O NÍVEL III
+Nome
+
+RG
+
+PAULO DO ROSÁRIO ARAÚJO
+
+13.486.780
+
+DO NÍVEL III PARA O NÍVEL IV
+Nome
+
+RG
+
+CARLOS JOSÉ DE ARAUJO
+CLAUDIO ROGÉRIO FERREIRA
+ELIZABETE RICCI RODRIGUES
+JOSÉ ANTONIO DA SILVA
+JOSÉ AUGUSTO LOURENÇO
+
+14.185.370-0
+22.559.606-4
+15.100.539-4
+15.830.754-9
+9.102.916-8
+
+CLASSE DE TÉCNICO DE APOIO À PESQUISA CIENTÍFICA E TECNOLÓGICA
+DO NÍVEL III PARA O NÍVEL IV
+Nome
+
+RG
+
+ROBERTO RUBENS FERREIRA DA SILVA
+
+12.608.701-5
+
+Artigo 2o - Os títulos dos funcionários acima relacionados serão apostilados
+e publicados pelas Unidades de Despesa a que estão subordinados.
+
+PATRÍCIA IGLECIAS
+Secretária de Estado do Meio Ambiente

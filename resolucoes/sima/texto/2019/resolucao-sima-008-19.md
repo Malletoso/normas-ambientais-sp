@@ -1,0 +1,2763 @@
+---
+titulo: "Resolução SIMA 008/19"
+orgao: "Secretaria Estadual (SP) - SIMA"
+tipo: "Resolução SIMA"
+numero: "8"
+ano: 2019
+data: 2019-02-01
+ementa: "Dispõe sobre transferência de cargos providos e vagos"
+situacao: "Vigente"
+pagina_no_site: "https://semil.sp.gov.br/legislacao/2022/07/resolucao-sima-008-19/"
+fonte:
+  - "https://smastr16.blob.core.windows.net/legislacao/sites/262/2022/07/2019resolucao_sima_008_2019.pdf"
+pdf:
+  - ../../pdf/2019/resolucao-sima-008-19.pdf
+paginas: 15
+conversao: texto
+capturado_em: 2026-10-23
+---
+
+# Resolução SIMA 008/19
+
+> Dispõe sobre transferência de cargos providos e vagos
+
+<!-- página 1 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+PUBLICADA NO DOE DE 05-02-2019 SEÇÃO I PÁG 52/53
+RESOLUÇÃO SIMA Nº 08, DE 1º DE FEVEREIRO DE 2019.
+Dispõe sobre transferência de cargos providos e vagos.
+Em cumprimento ao disposto no artigo 5º, § 5º do Decreto 64.059, de 01-01, publicado no DOE de 1-1-2019, faz publicar a relação
+nominal dos cargos providos e vagos, transferidos da Secretaria de Energia e Mineração e da Secretaria de Saneamento e
+Recursos Hídricos para a Secretaria de Infraestrutura e Meio Ambiente, na conformidade dos anexos, a seguir mencionados, que
+fazem parte integrante desta Resolução:
+a)
+Anexo I – Cargos Providos
+CARGO/FUNÇÃO ATIVIDADE
+ASSESSOR DE GABINETE I
+ASSESSOR DE GABINETE II
+ASSESSOR DE GABINETE II
+ASSESSOR DE GABINETE II
+ASSESSOR DE GABINETE II
+ASSESSOR I
+ASSESSOR I
+ASSESSOR I
+
+OCUPANTE
+Origem
+Alain Duarte do Santo
+SEM
+Akio Watanabe
+SSRH
+Karina de Souza Cavalcante
+SSRH
+Kellen Christiane Caires Rego Santos
+SSRH
+Lilian Cristina de Araújo
+SEM
+Adriana Aparecida Araújo
+SEM
+Emilene Andreia Fugita
+SEM
+Mariana Santana de Souza Soares
+SEM
+
+R.G.
+
+REF/GRAU SQC/SQF E.V.
+
+42.049.117-X
+
+1
+
+SQC-I
+
+EV-C
+
+3.105.735-4
+
+3
+
+SQC-I
+
+EV-C
+
+65.007.602-3
+
+3
+
+SQC-I
+
+EV-C
+
+55.365.429-9
+
+3
+
+SQC-I
+
+EV-C
+
+32.020.024-3
+
+3
+
+SQC-I
+
+EV-C
+
+26.185.283-8
+
+1
+
+SQC-I
+
+EV-C
+
+34.414.066-0
+
+1
+
+SQC-I
+
+EV-C
+
+50.310.299-4
+
+1
+
+SQC-I
+
+EV-C
+
+1
+
+<!-- página 2 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+ASSESSOR I
+ASSESSOR TÉCNICO DE COORDENADOR
+ASSESSOR TÉCNICO DE COORDENADOR
+ASSESSOR TÉCNICO DE COORDENADOR
+ASSESSOR TÉCNICO DE COORDENADOR
+ASSESSOR TÉCNICO DE GABINETE I
+ASSESSOR TÉCNICO DE GABINETE I
+ASSESSOR TÉCNICO DE GABINETE II
+ASSESSOR TÉCNICO DE GABINETE II
+ASSESSOR TÉCNICO DE GABINETE IV
+ASSESSOR TÉCNICO DE GABINETE IV
+ASSESSOR TÉCNICO DE GABINETE IV
+ASSESSOR TÉCNICO DE GABINETE IV
+ASSESSOR TÉCNICO DE GABINETE IV
+ASSESSOR TÉCNICO I
+ASSESSOR TÉCNICO I
+
+Silvana da Silva Souza
+SEM
+Ana Tiemi Ogura
+SSRH
+Ingrid Dara Lima
+SSRH
+Marco Antonio Luiz Cremonesi
+SEM
+Rosanis de Oliveira Santos
+SSRH
+Thaylor Rodrigues dos Santos
+SSRH
+Walkiria Vieira da Silva
+SEM
+Jairo Ciati Alves
+SSRH
+Marileide Fagundes de Carvalho
+SSRH
+Ana Laura Pires Nalesso
+SSRH
+Daniela Rosado Sacardo
+SEM
+Elias Tuffi Abdalla
+SSRH
+Patrick Johann Schindler
+SSRH
+Vilma dos Anjos da Piedade Gonçalves
+SSRH
+Gustavo Pereira dos Santos
+SEM
+Marcelo Fernandes de Souza
+SEM
+
+23.996.548-6
+
+1
+
+SQC-I
+
+EV-C
+
+10.282.683-3
+
+13
+
+SQC-I
+
+EV-C
+
+43.957.238-1
+
+13
+
+SQC-I
+
+EV-C
+
+6.964.142-0
+
+13
+
+SQC-I
+
+EV-C
+
+14.381.042-X
+
+13
+
+SQC-I
+
+EV-C
+
+49.780.837-7
+
+7
+
+SQC-I
+
+EV-C
+
+6.024.716-2
+
+7
+
+SQC-I
+
+EV-C
+
+15.391.257
+
+9
+
+SQC-I
+
+EV-C
+
+50.006.056-3
+
+9
+
+SQC-I
+
+EV-C
+
+30.268.702-6
+
+15
+
+SQC-I
+
+EV-C
+
+33.864.430-1
+
+15
+
+SQC-I
+
+EV-C
+
+12.746.607-1
+
+15
+
+SQC-I
+
+EV-C
+
+19.235.137-0
+
+15
+
+SQC-I
+
+EV-C
+
+6.341.468-5
+
+15
+
+SQC-I
+
+EV-C
+
+46.007.042-3
+
+4
+
+SQC-I
+
+EV-C
+
+44.382.197-5
+
+4
+
+SQC-I
+
+EV-C
+
+2
+
+<!-- página 3 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+ASSESSOR TÉCNICO II
+ASSESSOR TÉCNICO II
+ASSESSOR TÉCNICO II
+ASSESSOR TÉCNICO II
+ASSESSOR TÉCNICO II
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+
+Daniela Aparecida Marcos
+SEM
+Elizabete Iris de Sousa
+SSRH
+Fabiano Santos da Silva
+SEM
+Indira Maria dos Santos Barbosa
+SSRH
+Silvia Regina de Aquino
+SEM
+Cassia Regina Gennari
+SSRH
+Claudia Elaine Gonçalves
+SSRH
+Daniele Oliveira Branco
+SSRH
+Jânio Queiroz Souto
+SEM
+João Paulo Novais Gomes Pureza
+SSRH
+Leonildes Pedro
+SSRH
+Letícia Ramos de Jorge
+SEM
+Renata Cristina Santos de Oliveira
+SSRH
+Rogério Narcizo
+SEM
+Rute Teodoro Paniquar
+SEM
+Sandra Regina do Nascimento Garofalo
+SSRH
+
+43.598.898-0
+
+7
+
+SQC-I
+
+EV-C
+
+34.710.998-6
+
+7
+
+SQC-I
+
+EV-C
+
+43.842.726-9
+
+7
+
+SQC-I
+
+EV-C
+
+46.027.127-1
+
+7
+
+SQC-I
+
+EV-C
+
+15.811.935-6
+
+7
+
+SQC-I
+
+EV-C
+
+5.315.397-2
+
+9
+
+SQC-I
+
+EV-C
+
+19.823.662-1
+
+9
+
+SQC-I
+
+EV-C
+
+47.728.388-3
+
+9
+
+SQC-I
+
+EV-C
+
+22.525.866-8
+
+9
+
+SQC-I
+
+EV-C
+
+44.158.533-4
+
+9
+
+SQC-I
+
+EV-C
+
+9.505.622-1
+
+9
+
+SQC-I
+
+EV-C
+
+43.881.725-4
+
+9
+
+SQC-I
+
+EV-C
+
+20.463.901-3
+
+9
+
+SQC-I
+
+EV-C
+
+14.992.181-0
+
+9
+
+SQC-I
+
+EV-C
+
+5.287.790
+
+9
+
+SQC-I
+
+EV-C
+
+16.536.484
+
+9
+
+SQC-I
+
+EV-C
+
+3
+
+<!-- página 4 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO III
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO V
+ASSESSOR TÉCNICO V
+ASSESSOR TÉCNICO V
+ASSESSOR TÉCNICO V
+
+Suzane Ester Tulerman
+SEM
+Vagnólia de Macedo
+SSRH
+Antonio Cirilo
+SEM
+Diogo Sarmento de Azevedo Lessa
+SSRH
+Edina da Cunha Lima
+SSRH
+Erica Vieira da Silva
+SSRH
+Gisele Correia da Silva
+SEM
+Isabel Cristina Bergamin
+SSRH
+Marly Aparecida Magro
+SEM
+Pedro Coutinho Costa
+SSRH
+Renata Freitas de Holanda
+SSRH
+Silvia Valeria Pinto dos Santos
+SSRH
+Bernadeth Correa Coimbra Kuschnaroff
+SEM
+Ivani Paixão Ferraz
+SSRH
+Maira Teixeira Ribeiro Morsa
+SSRH
+Maria Aparecida da Silva Dias
+SSRH
+
+17.798.595-1
+
+9
+
+SQC-I
+
+EV-C
+
+28.614.311-2
+
+9
+
+SQC-I
+
+EV-C
+
+13.948.941
+
+11
+
+SQC-I
+
+EV-C
+
+2003006010657-SSP/AL 11
+
+SQC-I
+
+EV-C
+
+12.779.461-X
+
+11
+
+SQC-I
+
+EV-C
+
+22.046.808-4
+
+11
+
+SQC-I
+
+EV-C
+
+35.249.539-X
+
+11
+
+SQC-I
+
+EV-C
+
+15.935.254-X
+
+11
+
+SQC-I
+
+EV-C
+
+8.149.341
+
+11
+
+SQC-I
+
+EV-C
+
+43.605.807-8
+
+11
+
+SQC-I
+
+EV-C
+
+35.462.158-0
+
+11
+
+SQC-I
+
+EV-C
+
+17.998.242-4
+
+12
+
+SQC-I
+
+EV-C
+
+14.684.494-4
+
+12
+
+SQC-I
+
+EV-C
+
+19.549.531-7
+
+12
+
+SQC-I
+
+EV-C
+
+34.905.252-9
+
+12
+
+SQC-I
+
+EV-C
+
+11.317.582-6
+
+12
+
+SQC-I
+
+EV-C
+
+4
+
+<!-- página 5 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+AUXILIAR DE SAUDE
+AUXILIAR DE SAÚDE
+AUXILIAR DE SAÚDE
+AUXILIAR DE SERVIÇOS GERAIS
+AUXILIAR DE SERVIÇOS GERAIS
+AUXILIAR DE SERVIÇOS GERAIS
+AUXILIAR DE SERVIÇOS GERAIS
+AUXILIAR DE SERVIÇOS GERAIS
+AUXILIAR DE SERVIÇOS GERAIS
+AUXILIAR DE SERVIÇOS GERAIS
+AUXILIAR DE SERVIÇOS GERAIS
+AUXILIAR DE SERVIÇOS GERAIS
+AUXILIAR DE SERVIÇOS GERAIS
+CHEFE I
+CHEFE I
+COORDENADOR
+
+Eliane dos Santos Silva
+SEM
+Ivete Silva da Cunha Retzer
+SSRH
+Lair Maria Bellini
+SSRH
+Antonia Janeth Lima de Castro
+SSRH
+Antonio Carlos de Oliveira Jose
+SSRH
+Edneusa Lina dos Santos
+SSRH
+Hamilton Munhoz
+SSRH
+Jairo Ciati Alves
+SSRH
+Jose Izidio Gomes
+SSRH
+Leonildes Pedro
+SSRH
+Marileide Fagundes de Carvalho
+SSRH
+Rejane Del Casale
+SEM
+Ruth Moreira
+SSRH
+Ivete Silva da Cunha Retzer
+SSRH
+Orlando Rodrigues dos Santos
+SSRH
+Rui Brasil Assis
+SSRH
+
+7.249.521
+
+1/B
+
+SQF-II
+
+EVNE-I
+
+16.231.140-0
+
+1/E
+
+SQF-II
+
+EV-NES
+
+15.963.663
+
+1/D
+
+SQF-II
+
+EV-NES
+
+37.807.947-5
+
+1/D
+
+SQC-III
+
+EV-NE
+
+15.795.243-5
+
+1/D
+
+SQC-III
+
+EV-NE
+
+20.378.882-5
+
+1/D
+
+SQC-III
+
+EV-NE
+
+6.383.842-4
+
+1/E
+
+SQF-II
+
+EV-NE
+
+15.391.257
+
+1/D
+
+SQC-III
+
+EV-NE
+
+4.104.026-0
+
+1/C
+
+SQC-III
+
+EV-NE
+
+9.505.622-1
+
+1/B
+
+SQC-III
+
+EV-NE
+
+50.006.056-3
+
+1/C
+
+SQC-III
+
+EV-NE
+
+11.580.807
+
+1/A
+
+SQF-II
+
+EV-NE
+
+6.821.756
+
+1/D
+
+SQF-II
+
+EV-NE
+
+16.231.140-0
+
+2
+
+SQC-I
+
+EV-C
+
+9.586.783
+
+2
+
+SQC-I
+
+EV-C
+
+6.355.316-8
+
+17
+
+SQC-I
+
+EV-C
+
+5
+
+<!-- página 6 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+COORDENADOR
+DIRETOR II
+DIRETOR II
+DIRETOR III
+DIRETOR TÉCNICO II
+DIRETOR TÉCNICO II
+DIRETOR TÉCNICO II
+DIRETOR TÉCNICO II
+DIRETOR TÉCNICO II
+DIRETOR TÉCNICO III
+DIRETOR TÉCNICO III
+DIRETOR TÉCNICO III
+DIRETOR TÉCNICO III
+DIRETOR TÉCNICO III
+DIRETOR TÉCNICO III
+DIRETOR TÉCNICO III
+
+Silvia Santana
+SEM
+Camilla Ferretti Rolim
+SSRH
+Marcos Florêncio dos Santos
+SSRH
+Antonio Carlos Santos de Paula
+SSRH
+Ana Caroline Ardito
+SSRH
+André Dias de Souza
+SSRH
+Elisabete Fernandes
+SEM
+Katia Regina Leandro
+SEM
+Valdir Stoianov Guimarães
+SEM
+Adriano Ambrósio Nogueira de Sá
+SEM
+Carolina Miramar de Souza Almeida
+SSRH
+Cesar Aparecido Martins Louvison
+SSRH
+Everton de Carvalho Freire
+SEM
+Flávia Braga Rodrigues
+SSRH
+Maria Célia Garbini Marcondes de Moura
+SEM
+Maria da Penha Ferreira
+SEM
+
+18.809.755-7
+
+17
+
+SQC-I
+
+EV-C
+
+26.577.712-4
+
+8
+
+SQC-I
+
+EV-C
+
+22.630.285-4
+
+8
+
+SQC-I
+
+EV-C
+
+15.218.208-1
+
+10
+
+SQC-I
+
+EV-C
+
+43.500.044-5
+
+11
+
+SQC-I
+
+EV-C
+
+22.603.109-3
+
+11
+
+SQC-I
+
+EV-C
+
+9.111.108-0
+
+11
+
+SQC-I
+
+EV-C
+
+25.724.027-5
+
+11
+
+SQC-I
+
+EV-C
+
+13.109.855-X
+
+11
+
+SQC-I
+
+EV-C
+
+44.662.274-6
+
+14
+
+SQC-I
+
+EV-C
+
+26.659.611-3
+
+14
+
+SQC-I
+
+EV-C
+
+9.895.581-0
+
+14
+
+SQC-I
+
+EV-C
+
+49.431.165-4
+
+14
+
+SQC-I
+
+EV-C
+
+27.143.127-1
+
+14
+
+SQC-I
+
+EV-C
+
+19.767.572-4
+
+14
+
+SQC-I
+
+EV-C
+
+13.966.533-X
+
+14
+
+SQC-I
+
+EV-C
+
+6
+
+<!-- página 7 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+DIRETOR TÉCNICO III
+DIRETOR TÉCNICO III
+DIRETOR TÉCNICO III
+ENGENHEIRO III
+ESPECIALISTA AMBIENTAL II
+ESPECIALISTA AMBIENTAL II
+ESPECIALISTA AMBIENTAL II
+ESPECIALISTA AMBIENTAL II
+ESPECIALISTA AMBIENTAL II
+ESPECIALISTA AMBIENTAL II
+ESPECIALISTA AMBIENTAL II
+ESPECIALISTA AMBIENTAL II
+ESPECIALISTA AMBIENTAL II
+ESPECIALISTA AMBIENTAL II
+ESPECIALISTA AMBIENTAL II
+EXECUTIVO PÚBLICO
+
+Maria Elisa Lobato Franco Romanoff
+11.189.400-1
+SSRH
+Regina Coneglian Urbaneto
+17.461.629-6
+SSRH
+Sandro Roberto de Souza
+23.602.024-9
+SSRH
+Maria Lucia Grisi Grandini Magri
+8.443.022-9
+SSRH
+Adilson Pereira Cotta
+14.259.047-2
+SSRH
+Andre Luiz Sanchez Navarro
+33.183.093-0
+SSRH
+Ariane Coelho Donatti
+29.796.785-X
+SSRH
+Bruno Franco de Souza
+34.431.779-1
+SSRH
+Fabio Luciano Pincinato
+30.539.628-6
+SSRH
+Iara Bueno Giacomini
+26.423.390-6
+SSRH
+Jociani Debeni Festa
+29.844.197-4
+SSRH
+Jorge Augusto de Carvalho Santos
+7.991.554
+SSRH
+Marcia Maria Chaves
+17.580.372-9
+SSRH
+Marcio da Silva Queiroz
+28.744.400-4
+SSRH
+Nilceia Franchi
+6.517.386
+SSRH
+Alexandre Alberto Rodrigues de Camargo Augusto 30.764.630-0
+SSRH
+
+14
+
+SQC-I
+
+EV-C
+
+14
+
+SQC-I
+
+EV-C
+
+14
+
+SQC-I
+
+EV-C
+
+SQC-III
+
+LC 540/88
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+LC 996/06
+
+SQC-III
+
+EV-NU-EST II
+
+1/A
+
+7
+
+<!-- página 8 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+
+André Dias de Souza
+SSRH
+Andre Rocha
+SSRH
+Andrea Silvia do Rosario
+SSRH
+Cesar Aparecido Martins Louvison
+SSRH
+Claudia Conte Bortuluci
+SSRH
+Eduardo de Vasconcelos Tuma
+SSRH
+Francis Marney Policarpo de Souza
+SSRH
+Guilherme Ettieni Silva D'Agostini
+SSRH
+Leticia Santos Gonçalves
+SSRH
+Marco Antonio Iwaniec
+SSRH
+Maria Aparecida Campos
+SSRH
+Mario de Almeida
+SSRH
+Patricia Maria Bazani
+SSRH
+Paulina Piscitelli
+SSRH
+Ricardo Gasperetti Bernardes
+SSRH
+Ricardo Luiz Mangabeira
+SSRH
+
+22.603.109-3
+
+1/A
+
+SQC-III
+
+EV-NU-EST II
+
+24.779.203-2
+
+1/A
+
+SQC-III
+
+EV-NU-EST II
+
+23.401.586-X
+
+1/B
+
+SQC-III
+
+EV-NU-EST II
+
+9.895.581-0
+
+1/B
+
+SQC-III
+
+EV-NU-EST II
+
+22.726.704-7
+
+1/B
+
+SQC-III
+
+EV-NU-EST II
+
+64.463.460-1
+
+1/A
+
+SQC-III
+
+EV-NU-EST II
+
+25.574.086-4
+
+3/B
+
+SQC-III
+
+EV-NU-EST II
+
+34.785.475-8
+
+1/B
+
+SQC-III
+
+EV-NU-EST II
+
+32.352.189-7
+
+1/A
+
+SQC-III
+
+EV-NU-EST II
+
+33.177.313-2
+
+1/A
+
+SQC-III
+
+EV-NU-EST II
+
+4.592.256-1
+
+1/C
+
+SQC-III
+
+EV-NU-EST II
+
+11.922.156-1
+
+1/A
+
+SQC-III
+
+EV-NU-EST II
+
+33.065.111-1
+
+1/B
+
+SQC-III
+
+EV-NU-EST II
+
+21.238.657-8
+
+1/B
+
+SQC-III
+
+EV-NU-EST II
+
+15.378.888-4
+
+1/B
+
+SQC-III
+
+EV-NU-EST II
+
+25.726.080-8
+
+1/C
+
+SQC-III
+
+EV-NU-EST II
+
+8
+
+<!-- página 9 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+
+Rodrigo Cintra de Oliveira
+SSRH
+Silas de Almeida Leguizamon
+SSRH
+Tereza Etsuko Shimizu
+SSRH
+Thais Regina Marcondes Dias
+SSRH
+Virginia Maura Barros Andrade
+SSRH
+Ana Tiemi Ogura
+SSRH
+Antonio Carlos Santos de Paula
+SSRH
+Cassia Regina Gennari
+SSRH
+Elizabete Iris de Sousa
+SSRH
+Ivani Paixão Ferraz
+SSRH
+Joana Aparecida Diniz
+SSRH
+Jose Barbosa Filho
+SSRH
+Orlando Rodrigues dos Santos
+SSRH
+Reinaldo Kiyonori Takata
+SSRH
+Sandra Regina do Nascimento Garofalo
+SSRH
+Silvia Valeria Pinto dos Santos
+SSRH
+
+32.241.157-9
+
+1/B
+
+SQC-III
+
+EV-NU-EST II
+
+41.706.703-3
+
+1/A
+
+SQC-III
+
+EV-NU-EST II
+
+14.178.843-4
+
+1/B
+
+SQC-III
+
+EV-NU-EST II
+
+25.507.316-1
+
+1/A
+
+SQC-III
+
+EV-NU-EST II
+
+64.391.498-5
+
+1/A
+
+SQC-III
+
+EV-NU-EST II
+
+10.282.683-3
+
+1/B
+
+SQC-III
+
+EV-NI
+
+15.218.208-1
+
+1/C
+
+SQC-III
+
+EV-NI
+
+5.315.397-2
+
+1/C
+
+SQC-III
+
+EV-NI
+
+34.710.998-6
+
+1/C
+
+SQC-III
+
+EV-NI
+
+19.549.531-7
+
+1/D
+
+SQC-III
+
+EV-NI
+
+8.447.387-3
+
+1/G
+
+SQC-III
+
+EV-NI
+
+9.445.562-4
+
+1/B
+
+SQC-III
+
+EV-NI
+
+9.586.783
+
+1/C
+
+SQC-III
+
+EV-NI
+
+25.523.780-7
+
+1/C
+
+SQC-III
+
+EV-NI
+
+16.536.484
+
+1/A
+
+SQC-III
+
+EV-NI
+
+17.998.242-4
+
+1/D
+
+SQC-III
+
+EV-NI
+
+9
+
+<!-- página 10 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+OFICIAL ADMINISTRATIVO
+
+Valeria de Souza Leite
+SSRH
+Vanessa Puk Fernandes
+SSRH
+Vladimir Galli
+SSRH
+
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+
+b)
+
+43.833.366-4
+
+1/C
+
+SQC-III
+
+EV-NI
+
+15.837.003-X
+
+1/A
+
+SQC-III
+
+EV-NI
+
+33.392.236-0
+
+1/B
+
+SQC-III
+
+EV-NI
+
+Anexo II – Cargos Vagos
+
+CARGOS
+ASSESSOR DE GABINETE I
+
+EX-OCUPANTES
+Motivo
+
+Felipe Cesar Peixoto Chagas
+
+Exoneração
+ASSESSOR I
+Daniele Oliveira Branco
+Exoneração
+ASSESSOR TÉCNICO DE GABINETE IV
+EV-C
+ASSESSOR TÉCNICO II
+Thaylor Rodrigues dos Santos
+Exoneração
+ASSESSOR TÉCNICO III
+Ana Caroline Ardito
+Exoneração
+ASSESSOR TÉCNICO III
+Ana Laura Pires Nalesso
+Exoneração
+ASSESSOR TÉCNICO III
+Daniele de Oliveira Lacerda
+Exoneração
+ASSESSOR TÉCNICO III
+Fernanda Raquel Mendes Fauquet
+Exoneração
+ASSESSOR TÉCNICO III
+Priscila Ferreira Domingues
+Exoneração
+ASSESSOR TÉCNICO III
+Renata Cristina Santos de Oliveira
+Exoneração
+
+R.G.
+Origem
+
+REF./GRAU SQC
+
+E.V.
+
+DOE
+
+37.013.966-5 1
+
+SQC-I
+
+EV-C
+
+10/01/2019
+
+1
+
+SQC-I
+
+EV-C
+
+19/10/2018
+
+3.820.788-6
+
+15
+
+SQC-I
+
+EV-C
+
+10/01/2019
+
+EV-C
+
+10/01/2019
+
+EV-C
+
+04/09/2018
+
+EV-C
+
+19/01/2019
+
+EV-C
+
+10/01/2019
+
+EV-C
+
+03/05/2017
+
+EV-C
+
+24/11/2018
+
+SSRH
+47.728.388-3
+SSRH
+
+Dirceu Rioji Yamazaki
+19/01/2019
+
+Exoneração SSRH
+49.780.837-7 7
+SQC-I
+SSRH
+43.500.044-5 9
+SQC-I
+SSRH
+30.268.702-6 9
+SQC-I
+SSRH
+3.176.536-0 9
+SQC-I
+SSRH
+33.225.259-0 9
+SQC-I
+SSRH
+9.705.844
+9
+SQC-I
+SSRH
+20.463.901-3 9
+SQC-I
+SSRH
+
+10
+
+<!-- página 11 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+ASSESSOR TÉCNICO III
+
+Renata Freitas de Holanda
+
+35.462.158-0 9
+
+SQC-I
+
+EV-C
+
+10/01/2019
+
+ASSESSOR TÉCNICO IV
+
+Aparecida Neire Assad de Carvalho
+
+4.240.067-3
+
+11
+
+SQC-I
+
+EV-C
+
+10/01/2019
+
+ASSESSOR TÉCNICO IV
+
+Isabel Cristina Bergamin
+
+15.935.254-X 11
+
+SQC-I
+
+EV-C
+
+10/01/2019
+
+11
+
+SQC-I
+
+EV-C
+
+24/08/2017
+
+32.356.044-1 12
+
+SQC-I
+
+EV-C
+
+10/01/2019
+
+12
+
+SQC-I
+
+EV-C
+
+29/04/2014
+
+2
+
+SQC-I
+
+EV-C
+
+01/09/2005
+
+2
+
+SQC-I
+
+EV-C
+
+09/07/2004
+
+2
+
+SQC-I
+
+EV-C
+
+07/08/2018
+
+2
+
+SQC-I
+
+EV-C
+
+17/01/2012
+
+2
+
+SQC-I
+
+EV-C
+
+25/10/2008
+
+2
+
+SQC-I
+
+EV-C
+
+31/08/2006
+
+2
+
+SQC-I
+
+EV-C
+
+09/09/2016
+
+2
+
+SQC-I
+
+EV-C
+
+17/07/2015
+
+2
+
+SQC-I
+
+EV-C
+
+13/02/2007
+
+17
+
+SQC-I
+
+EV-C
+
+20/06/2018
+
+ASSESSOR TÉCNICO IV
+ASSESSOR TÉCNICO V
+ASSESSOR TÉCNICO V
+CHEFE I
+CHEFE I
+CHEFE I
+CHEFE I
+CHEFE I
+CHEFE I
+CHEFE I
+CHEFE I
+CHEFE I
+COORDENADOR
+
+Exoneração
+Exoneração
+
+Exoneração
+Maria Cristina Martinez
+Exoneração
+
+Aricia Lais Orive Pinto
+
+Exoneração
+Vanessa Chofard Morimoto
+Exoneração
+Analia Vieira Pereira
+Exoneração
+Antonia Janeth Lima de Castro
+Exoneração
+Cassia Regina Gennari
+Exoneração
+Francisco Gaia Sobrinho
+Exoneração
+Geni Gomes de Andrade
+Exoneração
+Leonildes Pedro
+Exoneração
+Maria Aldenize Calazans
+Exoneração
+Maria Luiza de Oliveira
+Exoneração
+Nilson Domingos de Souza
+Exoneração
+Americo de Oliveira Sampaio
+Exoneração
+
+SSRH
+SSRH
+
+SSRH
+17.461.630-2
+SSRH
+
+SSRH
+50.301.945-8
+SEM
+5.251.173
+SSRH
+37.807.947-5
+SSRH
+5.315.397-2
+SSRH
+8.199.124
+SSRH
+5.117.310
+SSRH
+9.505.622-1
+SSRH
+15.674.765
+SSRH
+11.488.056
+SSRH
+16.772.045
+SSRH
+7.840.633-X
+SSRH
+
+11
+
+<!-- página 12 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+ENGENHEIRO I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+
+Carlos Eduardo Beato
+Exoneração
+Alana Almeida de Souza
+Exoneração
+Ana Paula Yoshimochi
+Exoneração
+Andre Abbade Miguel
+Exoneração
+Carla Simone Wachholz
+Exoneração
+Carla Veiga A. Silva
+Exoneração
+Celso Martins Pinto
+Exoneração
+Cintia Elena Nicolau
+Exoneração
+Denis Delgado Santos
+Exoneração
+Emanuele Jankowski Saboia
+Exoneração
+Francisco Jose Martinho e Almeida
+Exoneração
+Gustavo Monteiro de Almeida
+Exoneração
+Henrique Sundfeld Barbin
+Exoneração
+LC 996/2006
+Criação
+LC 996/2006
+Criação
+LC 996/2006
+Criação
+
+32.033.375-9
+SSRH
+32.205.049-2
+SSRH
+35.711.122-9
+SSRH
+33.883.662-7
+SSRH
+669.710
+SSRH
+8.091.779-2
+SSRH
+16.301.273
+SSRH
+34.556.214-8
+SSRH
+29.597.379-1
+SSRH
+36.559.829
+SSRH
+16.148.800-6
+SSRH
+32.370.608-3
+SSRH
+18.620.485-1
+SSRH
+SSRH
+SSRH
+SSRH
+
+SQC-III
+
+LC 540/88
+
+13/09/2011
+
+SQC-III
+
+LC 996/06
+
+31/03/2011
+
+SQC-III
+
+LC 996/06
+
+04/02/2011
+
+SQC-III
+
+LC 996/06
+
+30/06/2010
+
+SQC-III
+
+LC 996/06
+
+13/04/2011
+
+SQC-III
+
+LC 996/06
+
+14/12/2010
+
+SQC-III
+
+LC 996/06
+
+08/08/2009
+
+SQC-III
+
+LC 996/06
+
+19/04/2011
+
+SQC-III
+
+LC 996/06
+
+01/02/2012
+
+SQC-III
+
+LC 996/06
+
+04/01/2011
+
+SQC-III
+
+LC 996/06
+
+17/04/2010
+
+SQC-III
+
+LC 996/06
+
+01/03/2011
+
+SQC-III
+
+LC 996/06
+
+31/03/2011
+
+SQC-III
+
+LC 996/06
+
+24/05/2006
+
+SQC-III
+
+LC 996/06
+
+24/05/2006
+
+SQC-III
+
+LC 996/06
+
+24/05/2006
+
+12
+
+<!-- página 13 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+ESPECIALISTA AMBIENTAL I
+EXECUTIVO PÚBLICO
+EXECUTIVO PÚBLICO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+
+LC 996/2006
+Criação
+LC 996/2006
+Criação
+LC 996/2006
+Criação
+LC 996/2006
+Criação
+LC 996/2006
+Criação
+LC 996/2006
+Criação
+LC 996/2006
+Criação
+Silvio Guilherme Hilário dos Santos
+Exoneração
+Antonio Acacio da Silva
+Exoneração
+L. 8.833/94
+Criação
+Alcides Ferro Luiz
+Exoneração
+Alice do Carmo Souza
+Exoneração
+Ana Maria Ferreira dos Santos
+Demissão
+Anita Benigno Pavão
+Aposentadoria
+Aparecida Gimenes Roda
+Aposentadoria
+Apparecida da Silva Almeida
+Aposentadoria
+
+SQC-III
+
+LC 996/06
+
+24/05/2006
+
+SQC-III
+
+LC 996/06
+
+24/05/2006
+
+SQC-III
+
+LC 996/06
+
+24/05/2006
+
+SQC-III
+
+LC 996/06
+
+24/05/2006
+
+SQC-III
+
+LC 996/06
+
+24/05/2006
+
+SQC-III
+
+LC 996/06
+
+24/05/2006
+
+SQC-III
+
+LC 996/06
+
+24/05/2006
+
+SQC-III
+
+LC 996/06
+
+05/04/2016
+
+1/A
+
+SQC-III
+
+EV-NU-EST II 11/05/2011
+
+1/A
+
+SQC-III
+
+EV-NU-EST II 26/07/1994
+
+1/A
+
+SQC-III
+
+EV-NI
+
+06/01/1990
+
+1/A
+
+SQC-III
+
+EV-NI
+
+04/12/2009
+
+1/A
+
+SQC-III
+
+EV-NI
+
+19/12/2008
+
+1/A
+
+SQC-III
+
+EV-NI
+
+19/09/1992
+
+1/A
+
+SQC-III
+
+EV-NI
+
+03/06/2008
+
+1/A
+
+SQC-III
+
+EV-NI
+
+20/04/1998
+
+SSRH
+SSRH
+SSRH
+SSRH
+SSRH
+SSRH
+SSRH
+41.322.655-4
+SSRH
+225.164
+SSRH
+SSRH
+4.965.109
+SSRH
+10.109.513
+SSRH
+13.402.950-1
+SSRH
+5.284.140
+SSRH
+9.046.337
+SSRH
+3.750.770
+SSRH
+
+13
+
+<!-- página 14 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+
+Aracendi Amaral de Castro
+Aposentadoria
+Clarice dos Santos Novaes
+Aposentadoria
+Clarissa Naomi Irie
+Exoneração
+Denise Vieira Aguiar
+Exoneração
+Dorotheia Benvinda Nuzzi
+Exoneração
+Edna Freitas Coelho
+Vacância por promoção
+Elio Marques dos Santos
+Exoneração
+Eneida Maria Novaes Ferreira
+Aposentadoria
+Ines Zarburian
+Falecimento
+Irene Garrido Oliveira Correia
+Aposentadoria
+Jefferson Jacinto
+Exoneração
+Josephina Profili
+Aposentadoria
+Joyce Alves de Jesus Rocha
+Exoneração
+Julinez Roberti Peixoto Ferrini
+Aposentadoria
+Juraci Aparecida Moraes
+Aposentadoria
+L. 7.193/62
+Criação
+
+4.413.881
+SSRH
+14.393.992
+SSRH
+23.166.658-5
+SSRH
+10.244.696
+SSRH
+2.918.470
+SSRH
+2.313.824
+SSRH
+18.280.395
+SSRH
+5.973.889-3
+SSRH
+6.033.607
+SSRH
+11.839.068
+SSRH
+22.425.658
+SSRH
+2.988.452
+SSRH
+42.248.927-X
+SSRH
+2.779.199
+SSRH
+9.622.238
+SSRH
+SSRH
+
+1/A
+
+SQC-III
+
+EV-NI
+
+01/08/2001
+
+1/A
+
+SQC-III
+
+EV-NI
+
+02/03/2017
+
+1/A
+
+SQC-III
+
+EV-NI
+
+25/08/2009
+
+1/A
+
+SQC-III
+
+EV-NI
+
+23/01/1990
+
+1/A
+
+SQC-III
+
+EV-NI
+
+26/10/1967
+
+1/A
+
+SQC-III
+
+EV-NI
+
+22/01/1970
+
+1/A
+
+SQC-III
+
+EV-NI
+
+09/08/1996
+
+1/A
+
+SQC-III
+
+EV-NI
+
+15/06/2004
+
+1/A
+
+SQC-III
+
+EV-NI
+
+26/07/1995
+
+1/A
+
+SQC-III
+
+EV-NI
+
+02/02/2013
+
+1/A
+
+SQC-III
+
+EV-NI
+
+27/05/1998
+
+1/A
+
+SQC-III
+
+EV-NI
+
+01/02/1990
+
+1/A
+
+SQC-III
+
+EV-NI
+
+03/08/2010
+
+1/A
+
+SQC-III
+
+EV-NI
+
+14/02/1991
+
+1/A
+
+SQC-III
+
+EV-NI
+
+25/06/2009
+
+1/A
+
+SQC-III
+
+EV-NI
+
+23/10/1962
+
+14
+
+<!-- página 15 -->
+
+SECRETARIA DE ESTADO DE INFRAESTRUTURA
+E MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL ADMINISTRATIVO
+OFICIAL OPERACIONAL
+
+L. 7.193/62
+Criação
+L. 7.193/62
+Criação
+L. 7.193/62
+Criação
+L. 7.193/62
+Criação
+Lhuba Hendler
+Aposentadoria
+Marco Aurelio Morais Tavares
+Exoneração
+Maria Cristina Cervellini Miramontes Forattini
+Exoneração
+Neuza Ferreira Lima
+Aposentadoria
+Paulo Fernando de Andrade Giostri
+Exoneração
+Ruth Figueira de Lima
+Exoneração
+Shirley Cobiak Zelic
+Aposentadoria
+Silene da Silva Amorim
+Aposentadoria
+Sonia Pereira Martins Garcia
+Aposentadoria
+Vera Lucia Cagol
+Aposentadoria
+Francisco Gaia Sobrinho
+Aposentadoria
+
+SSRH
+SSRH
+SSRH
+SSRH
+2.837.433
+SSRH
+14.660.371
+SSRH
+9.719.306
+SSRH
+5.151.672
+SSRH
+9.820.204
+SSRH
+9.503.878
+SSRH
+8.588.992-1
+SSRH
+14.253.728-7
+SSRH
+9.623.484
+SSRH
+8.917.088
+SSRH
+8.199.124
+SSRH
+
+1/A
+
+SQC-III
+
+EV-NI
+
+23/10/1962
+
+1/A
+
+SQC-III
+
+EV-NI
+
+23/10/1962
+
+1/A
+
+SQC-III
+
+EV-NI
+
+23/10/1962
+
+1/A
+
+SQC-III
+
+EV-NI
+
+23/10/1962
+
+1/A
+
+SQC-III
+
+EV-NI
+
+08/07/1992
+
+1/A
+
+SQC-III
+
+EV-NI
+
+24/12/1985
+
+1/A
+
+SQC-III
+
+EV-NI
+
+10/09/1988
+
+1/A
+
+SQC-III
+
+EV-NI
+
+29/09/1998
+
+1/A
+
+SQC-III
+
+EV-NI
+
+18/08/1995
+
+1/A
+
+SQC-III
+
+EV-NI
+
+14/03/1991
+
+1/A
+
+SQC-III
+
+EV-NI
+
+03/08/1999
+
+1/A
+
+SQC-III
+
+EV-NI
+
+09/11/2017
+
+1/A
+
+SQC-III
+
+EV-NI
+
+08/05/2012
+
+1/A
+
+SQC-III
+
+EV-NI
+
+15/11/2013
+
+1/A
+
+SQC-III
+
+EV-NI
+
+11/01/2002
+
+15

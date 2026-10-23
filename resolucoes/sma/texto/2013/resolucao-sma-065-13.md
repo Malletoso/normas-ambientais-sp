@@ -1,0 +1,431 @@
+---
+titulo: "Resolução SMA 065/13"
+orgao: "Secretaria Estadual (SP) - SMA"
+tipo: "Resolução SMA"
+numero: "65"
+ano: 2013
+data: 2013-08-09
+ementa: "dispõe sobre promoção por antiguidade"
+situacao: "Vigente"
+pagina_no_site: "https://semil.sp.gov.br/legislacao/2022/07/resolucao-sma-065-13/"
+fonte:
+  - "https://smastr16.blob.core.windows.net/legislacao/sites/262/2022/07/2013resolucao_sma_065_2013-1.pdf"
+pdf:
+  - ../../pdf/2013/resolucao-sma-065-13.pdf
+paginas: 5
+conversao: texto
+capturado_em: 2026-10-23
+---
+
+# Resolução SMA 065/13
+
+> dispõe sobre promoção por antiguidade
+
+<!-- página 1 -->
+
+SECRETARIA DE ESTADO DO MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+
+PUBLICADA NO DOE DE 10-08-2013 SEÇÃO I PÁG 34
+
+RESOLUÇÃO SMA Nº 65, DE 09 DE AGOSTO DE 2013
+
+O SECRETÁRIO DE ESTADO DO MEIO AMBIENTE, no uso de suas
+atribuições legais, RESOLVE:
+Artigo 1o - Promover por Antiguidade, a contar de 1o de julho de 2010, nos
+termos do artigo 24, do Decreto no 42.827, de 21 de janeiro de 1998, os funcionários
+integrantes das classes abaixo relacionadas, na seguinte conformidade:
+
+Instituto de Botânica
+Agente de Apoio à Pesquisa Científica e Tecnológica
+Do NÍVEL I para o NÍVEL II
+NOME
+
+RG
+
+MARIA CRISTINA DOS SANTOS BARBOSA
+
+32.815.497-0
+
+Do NÍVEL II para o NÍVEL III
+NOME
+
+RG
+
+VERA LÚCIA JOAQUIM DE ALBUQUERQUE
+
+10.840.234-4
+
+Do NÍVEL III para o NÍVEL IV
+NOME
+
+RG
+
+MARIA DE FÁTIMA FRIGE LIMA
+
+8.913.831
+
+Auxiliar de Apoio à Pesquisa Científica e Tecnológica
+Do NÍVEL II para o NÍVEL III
+NOME
+
+RG
+
+MARLI GOMES LIMA DO NASCIMENTO
+
+18.867.385-4
+
+EZEQUIEL FERREIRA BENTO
+
+11.497.554-1
+
+Do NÍVEL III para o NÍVEL IV
+NOME
+
+RG
+
+<!-- página 2 -->
+
+SECRETARIA DE ESTADO DO MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+
+FÁTIMA APARECIDA DO CARMO PEIXOTO MENDES
+VALDELÍCIO SANTOS PINHEIRO
+MARIA LEOPOLDINA RAMOS
+JANETE DE LIMA
+VANDA PERANDRÉ DE FREITAS
+
+16.781.074-1
+18.870.664
+17.864.023-2
+15.917.721-2
+13.824.231-8
+
+Oficial de Apoio à Pesquisa Científica e Tecnológica
+Do NÍVEL II para o NÍVEL III
+NOME
+
+RG
+
+MÔNICA VALÉRIA CACHENCO
+
+16.377.802
+
+ULISSES DO CARMO PEIXOTO
+
+15.438.967-5
+
+Do NÍVEL III para o NÍVEL IV
+NOME
+
+RG
+
+MARIA AUXILIADORA PINTO COSTA DA SILVA
+
+13.579.343-9
+
+ROSANA DOS SANTOS LUIZ REIS
+
+17.275.557-8
+
+LUIS GUSTAVO ZANQUETA BATISTA
+
+12.520.448-6
+
+VALDENICE SOARES DA SILVA AMORIM
+
+11.238.840-1
+
+CORMARIA DE OLIVEIRA REIS
+
+17.327.180-7
+
+DAVI DIVINO LOPES
+
+8.693.462-4
+
+Técnico de Apoio à Pesquisa Científica e Tecnológica
+Do NÍVEL III para o NÍVEL IV
+NOME
+
+RG
+
+LUIZ RIBEIRO DE AZEVEDO BARRETTO
+
+6.587.108-X
+
+Instituto Florestal
+Agente de Apoio à Pesquisa Científica e Tecnológica
+Do NÍVEL I para o NÍVEL II
+NOME
+
+RG
+
+MARIA APARECIDA VILANOVA
+
+12.624.549-6
+
+Do NÍVEL II para o NÍVEL III
+NOME
+
+RG
+
+ELIANA MOREIRA DOS SANTOS
+
+16.372.267
+
+MARCIA DE PAULA FERREIRA
+
+7.813.142
+
+<!-- página 3 -->
+
+SECRETARIA DE ESTADO DO MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+
+Do NÍVEL III para o NÍVEL IV
+NOME
+
+RG
+
+IZABEL DE FATIMA CABOATAN FERRAZ
+
+10.396.849-9
+
+ROQUE AUGUSTO DE OLIVEIRA
+
+6.855.839
+
+JOSE FRANCISCO PEZZIN
+
+5.572.492-9
+
+EDI CARVALHO PEREIRA
+
+10.466.715
+
+Auxiliar de Apoio à Pesquisa Científica e Tecnológica
+Do NÍVEL I para o NÍVEL II
+NOME
+
+RG
+
+ROBERTO FRANCISCO DOS SANTOS
+
+20.831.970-0
+
+Do NÍVEL II para o NÍVEL III
+NOME
+
+RG
+
+HÉLIO SBRUZZI
+
+14.544.877
+
+JOSÉ RODRIGUES SOARES
+
+6.451.478
+
+Do NÍVEL III para o NÍVEL IV
+NOME
+
+RG
+
+MARCOS AURÉLIO ALVES NASCIMENTO
+
+19.990.382
+
+SEBASTIAO PAULINO DE FARIA
+
+12.529.204
+
+NELSON FERREIRA DA SILVA
+
+6.805.936
+
+NEIDE APARECIDA DE PAULA SANTOS
+
+11.332.965
+
+WALDENEI FERREIRA
+
+18.370.924
+
+MARIOSAN DE JESUS SENE SOUZA
+
+14.303.885
+
+CARLOS BAGDAL
+
+8.592.404
+
+MIGUEL DONIZETI MORGADO
+
+22.456.595
+
+NARCISO XAVIER
+
+8.310.033
+
+PRUDENTE MARCELINO DE PAULA
+
+14.319.786
+
+SÉRGIO ANTONIO SOBOTTKA
+
+8.167.672
+
+WANDERLEY FAGUNDES
+
+13.280.238
+
+JUAREZ FERREIRA
+
+14.929.764
+
+WILSON JOSÉ FIORUCI
+
+21.972.820
+
+APARECIDA CANDIDO
+
+10.575.848
+
+<!-- página 4 -->
+
+SECRETARIA DE ESTADO DO MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+
+Oficial de Apoio à Pesquisa Científica e Tecnológica
+Do NÍVEL I para o NÍVEL II
+NOME
+
+RG
+
+ANÉSIO DIAS PEREIRA
+
+15.229.297
+
+Do NÍVEL II para o NÍVEL III
+NOME
+
+RG
+
+ADEMIR LOPES SOARES CAMPOS
+
+10.666.060
+
+VALDIR PAULINO VIEIRA LOPES
+
+7.751.054
+
+SONIA REGINA GODOI CAMPEAO
+
+10.575.892
+
+Técnico de Apoio à Pesquisa Científica e Tecnológica
+Do NÍVEL I para o NÍVEL II
+NOME
+
+RG
+
+ALEXANDRE JOSÉ AGUILERA RAMOS
+
+10.466.106
+
+Do NÍVEL II para o NÍVEL III
+NOME
+
+RG
+
+BENEDICTO LOPES DA SILVA
+
+3.334.254
+
+Do NÍVEL III para o NÍVEL IV
+NOME
+
+RG
+
+ROSANA PIRES GONÇALVES
+
+16.407.827
+
+LUIZ CARLOS MALÍCIA
+
+16.185.133
+
+SILVIO DOS SANTOS
+
+21.916.936-6
+
+JOSÉ CLÓVIS BUZO
+
+8.310.292
+
+Instituto Geológico
+Agente de Apoio à Pesquisa Científica e Tecnológica
+Do NÍVEL I para o NÍVEL II
+NOME
+
+RG
+
+MARIANA EVANGELISTA
+
+18.413.694
+
+VANDA LIMA DOS SANTOS DAVID
+
+12.579.854
+
+Do NÍVEL III para o NÍVEL IV
+
+<!-- página 5 -->
+
+SECRETARIA DE ESTADO DO MEIO AMBIENTE
+GABINETE DO SECRETÁRIO
+
+NOME
+
+RG
+
+CLEUSA MARIA DOS SANTOS
+
+17.319.028
+
+Oficial de Apoio à Pesquisa Científica e Tecnológica
+
+Do NÍVEL II para o NÍVEL III
+NOME
+
+RG
+
+ORAIL SANTOS
+
+15.498.203
+
+Técnico de Apoio à Pesquisa Científica e Tecnológica
+Do NÍVEL I para o NÍVEL II
+NOME
+
+RG
+
+MARIA DE FÁTIMA VIEIRA DA SILVA
+
+15.106.295
+
+Do NÍVEL III para o NÍVEL IV
+NOME
+
+RG
+
+JOSÉ ALVES DE ANDRADE
+
+11.322.203
+
+Artigo 2o - Os títulos dos funcionários acima relacionados serão
+apostilados e publicados pelas Unidades de Despesa a que estão subordinados.
+
+BRUNO COVAS
+Secretário de Estado do Meio Ambiente
